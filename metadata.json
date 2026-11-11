@@ -1,0 +1,6 @@
+{
+  "name": "Music Voice Controller",
+  "description": "Universal music voice controller with 10-band equalizer, bass boost, virtualizer, circular visualizer, and Bluetooth profiles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
